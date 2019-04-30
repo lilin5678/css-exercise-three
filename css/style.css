@@ -13,7 +13,7 @@ body {
 
 nav {
   margin: 0 auto;
-  padding: 10px 0 15px 15px;
+  padding: 15px 0 15px 15px;
   background-color: black;
   position: fixed;
   width: 420px;
@@ -45,7 +45,7 @@ h3 {
 
 }
 hr {
-style: 1px solid #BDBDBD;
+border: 1px solid #BDBDBD;
 margin-block-start: 0em;
 margin-block-end: 0em;
 }
@@ -62,8 +62,7 @@ i {
 .arrow{
   float: right;
   vertical-align: middle;
-  display: inline-block;
-  margin: 20px 0% 0% 0%;
+  margin: 20px 2% 0% 0%;
 
 }
 
